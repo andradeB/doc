@@ -1,0 +1,8 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andradeB/doc.git",
+  "author": "Bruno Andrade Dias <andradedias.bruno@hotmail.com>",
+  "license": "MIT"
+}
